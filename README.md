@@ -44,7 +44,6 @@
 ### 📈 GitHub 数据全景
 
 <a href="https://github.com/MashiroSaber03">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSaber03&layout=compact&theme=radical" width="40%"/>
 </a>
 
 [![3D Contribution Graph](https://github-readme-3d-contributions.vercel.app/api?username=MashiroSaber03&theme=dark)](https://github.com/MashiroSaber03)
