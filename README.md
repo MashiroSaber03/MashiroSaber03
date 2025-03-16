@@ -41,17 +41,6 @@
 
 ---
 
-### 📈 GitHub 数据全景
-
-<a href="https://github.com/MashiroSaber03">
-</a>
-
-[![3D Contribution Graph](https://github-readme-3d-contributions.vercel.app/api?username=MashiroSaber03&theme=dark)](https://github.com/MashiroSaber03)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MashiroSaber03&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
-
 ### 🚀 开源项目
 
 [![Saber Translator](https://github-readme-stats.vercel.app/api/pin/?username=MashiroSaber03&repo=Saber-Translator&theme=vision-friendly-dark)](https://github.com/MashiroSaber03/Saber-Translator)
